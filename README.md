@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/danura santhush silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danura santhush silva" height="30" width="40" /></a>
 <a href="https://fb.com/danurasanthush.silva.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danurasanthush.silva.9" height="30" width="40" /></a>
 <a href="https://instagram.com/danurasanthush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danurasanthush" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/danura santhush silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="danura santhush silva" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uctmov1xlhpljypzfbf7jseg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uctmov1xlhpljypzfbf7jseg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
