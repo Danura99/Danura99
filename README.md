@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@danura_santhush" target="blank"><img src="https://img.shields.io/twitter/follow/@danura_santhush?logo=twitter&style=for-the-badge" alt="@danura_santhush" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/4FO9toe.gif"/>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danura99?tab=repositories](https://github.com/Danura99?tab=repositories)
 
@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danura99&show_icons=true&locale=en&layout=compact" alt="danura99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danura99&show_icons=true&locale=en" alt="danura99" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=danura99&show_icons=true&locale=en" alt="danura99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danura99&" alt="danura99" /></p>
