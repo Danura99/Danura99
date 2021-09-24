@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/danura_santhush" target="blank"><img src="https://img.shields.io/twitter/follow/danura_santhush?logo=twitter&style=for-the-badge" alt="danura_santhush" /></a> </p>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"/>
+<img align="right" alt="Coding" width="300" src="https://i.redd.it/hspwcov97w731.gif"/>
 
 - 🔭 I’m currently working on **Computer Science & Software Engineering student at Bedfordshire University, in SriLanka.**
 
