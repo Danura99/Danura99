@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/@danura_santhush" target="blank"><img src="https://img.shields.io/twitter/follow/@danura_santhush?logo=twitter&style=for-the-badge" alt="@danura_santhush" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2F4FO9toe%2Fcomment%2F1060638215&psig=AOvVaw0LzSHwDR3O-qWu60OU4WfH&ust=1632549570612000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDe_p73lvMCFQAAAAAdAAAAABAJ"/>
+
 - 👨‍💻 All of my projects are available at [https://github.com/Danura99?tab=repositories](https://github.com/Danura99?tab=repositories)
 
 - 📫 How to reach me **danurasanthush@gmail.com**
