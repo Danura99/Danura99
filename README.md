@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@danura_santhush" target="blank"><img src="https://img.shields.io/twitter/follow/@danura_santhush?logo=twitter&style=for-the-badge" alt="@danura_santhush" /></a> </p>
 
-<img align="right" alt="Coding" width="200" src="https://i.imgur.com/4FO9toe.gif"/>
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/4FO9toe.gif"/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danura99?tab=repositories](https://github.com/Danura99?tab=repositories)
 
